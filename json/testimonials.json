@@ -1,0 +1,55 @@
+{
+    "headerText": "Testimonials",
+    "headerSubText": "See what our satisfied customers have to say about Ultra Shine Carpet & Tile Cleaning Services.",
+    "testimonials": [
+        {
+            "body": "It’s the greatest use them the best job and mark and mike have great personalities",
+            "author": {
+                "name": "Mike Simonsen",
+                "source": "NiceJob",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "The responded quickly, very professional, looks great.",
+            "author": {
+                "name": "WILLIAM KENNEDY",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Mark and his team were so knowledgeable and professional. They did a great job my carpet looks new again!",
+            "author": {
+                "name": "Samantha Smith",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Thank you Mark! Your work was incredible and are carpets looked amazing! I will use again, and recommend to everyone!",
+            "author": {
+                "name": "Tracy Gruender",
+                "source": "Google",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "Thank you Mark and Mike for your fabulous carpet and tile cleaning service!!!!😎👍🏻👏🏻",
+            "author": {
+                "name": "Nancy Chance",
+                "source": "Facebook",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        },
+        {
+            "body": "These guys are the best!!  The price is reasonable and they do a great job!!",
+            "author": {
+                "name": "Jim Ford",
+                "source": "NiceJob",
+                "icon": "https://cdn-teams-slug.flaticon.com/google.jpg"
+            }
+        }
+    ],
+    "anchor": "testimonials"
+}

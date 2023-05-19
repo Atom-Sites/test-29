@@ -1,0 +1,89 @@
+{
+    "services": [
+        {
+            "serviceBlurb": "Expert Carpet Cleaning",
+            "serviceSlug": "Revitalize your carpets with our professional cleaning services.",
+            "serviceText": "At Ultra Shine Carpet & Tile Cleaning Services, we specialize in deep cleaning carpets to remove dirt, stains, and allergens. Our experienced team uses advanced equipment and eco-friendly products to ensure your carpets look and feel fresh.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/267355748/stock-photo-people-housework-and-housekeeping-concept-close-up-of-woman-in-rubber-gloves-with-cloth-and-267355748.jpg",
+            "imageAlt": "Carpet cleaning service",
+            "features": [
+                {
+                    "name": "Deep Carpet Cleaning",
+                    "description": "Our deep carpet cleaning process removes dirt, stains, and allergens, leaving your carpets looking and feeling fresh."
+                },
+                {
+                    "name": "Pet Stain and Odor Removal",
+                    "description": "We effectively remove pet stains and odors from your carpets, ensuring a clean and healthy environment for you and your family."
+                },
+                {
+                    "name": "Commercial Carpet Cleaning",
+                    "description": "We offer professional carpet cleaning services for commercial properties, ensuring a clean and welcoming environment for your customers and employees."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Thorough Upholstery Cleaning",
+            "serviceSlug": "Restore the beauty of your furniture with our upholstery cleaning services.",
+            "serviceText": "Ultra Shine Carpet & Tile Cleaning Services provides professional upholstery cleaning services to remove dirt, stains, and allergens from your furniture. Our team uses safe and effective cleaning methods to ensure the longevity of your upholstery.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/300786725/1755715427/stock-photo-cleansing-car-interior-and-spraying-with-disinfection-liquid-hands-in-rubber-protective-glove-1755715427.jpg",
+            "imageAlt": "Upholstery cleaning service",
+            "features": [
+                {
+                    "name": "Furniture Cleaning",
+                    "description": "We clean all types of furniture, including sofas, chairs, and mattresses, to remove dirt, stains, and allergens."
+                },
+                {
+                    "name": "Fabric Protection",
+                    "description": "Our upholstery cleaning services include fabric protection to help prevent future stains and prolong the life of your furniture."
+                },
+                {
+                    "name": "Eco-Friendly Products",
+                    "description": "We use eco-friendly cleaning products that are safe for your family and the environment."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Sparkling Window Cleaning",
+            "serviceSlug": "Let the sunshine in with our professional window cleaning services.",
+            "serviceText": "Ultra Shine Carpet & Tile Cleaning Services offers expert window cleaning services for residential and commercial properties. Our team uses advanced techniques and equipment to ensure streak-free, crystal-clear windows.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/123204070/stock-photo-windows-cleaning-glass-without-smudges-red-squeegee-123204070.jpg",
+            "imageAlt": "Window cleaning service",
+            "features": [
+                {
+                    "name": "Residential Window Cleaning",
+                    "description": "We provide professional window cleaning services for homes, ensuring clean and streak-free windows."
+                },
+                {
+                    "name": "Commercial Window Cleaning",
+                    "description": "Our window cleaning services extend to commercial properties, helping businesses maintain a clean and professional appearance."
+                },
+                {
+                    "name": "Safety and Efficiency",
+                    "description": "Our team follows strict safety guidelines and uses efficient techniques to deliver exceptional window cleaning results."
+                }
+            ]
+        },
+        {
+            "serviceBlurb": "Wood Floor Refinishing",
+            "serviceSlug": "Bring new life to your wood floors with our refinishing services.",
+            "serviceText": "Ultra Shine Carpet & Tile Cleaning Services offers professional wood floor refinishing services to restore the beauty and durability of your hardwood floors. Our team uses high-quality products and techniques to ensure a flawless finish.",
+            "imageUrl": "https://image.shutterstock.com/display_pic_with_logo/301539971/278918126/stock-photo-spacious-family-room-with-wooden-floor-278918126.jpg",
+            "imageAlt": "Wood floor refinishing service",
+            "features": [
+                {
+                    "name": "Hardwood Floor Restoration",
+                    "description": "We restore the beauty and durability of your hardwood floors with our professional refinishing services."
+                },
+                {
+                    "name": "Custom Staining",
+                    "description": "Our team can customize the stain color of your wood floors to match your desired aesthetic."
+                },
+                {
+                    "name": "Dust-Free Process",
+                    "description": "We use a dust-free refinishing process to minimize disruption and ensure a clean and healthy environment during the project."
+                }
+            ]
+        }
+    ],
+    "anchor": "services"
+}

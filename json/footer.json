@@ -1,0 +1,22 @@
+{
+    "logoImage": "https://cdn.nicejob.co/uploads/production/4504912243720192/1608001061334_4643231732596736_473.png",
+    "logoImageAlt": "Ultra Shine Carpet & Tile Cleaning Services Logo",
+    "address": "Not Provided",
+    "phone": "+19516887777",
+    "email": "info@ultrashineservices.com",
+    "socials": [
+        {"name": "Facebook", "href": "https://www.facebook.com/305698638946/reviews"},
+        {"name": "Google", "href": "https://maps.google.com/maps?cid=14661323672700676882"}
+    ],
+    "services": [
+        {"name": "Sanitizing Services", "href": "#services"},
+        {"name": "Commercial Office Cleaning Services", "href": "#services"},
+        {"name": "Commercial Properties", "href": "#services"},
+        {"name": "Remove Pet Stains and Odors", "href": "#services"},
+        {"name": "Window Cleaning", "href": "#services"}
+    ],
+    "review_href": "#reviews",
+    "services_href": "#services",
+    "contact_href": "#contact",
+    "anchor": "footer"
+}
